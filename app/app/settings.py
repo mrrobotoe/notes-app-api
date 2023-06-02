@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # Local
     "core",
     "user",
+    "note",
     # 3rd party
     "rest_framework",
     "rest_framework.authtoken",
